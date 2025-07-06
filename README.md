@@ -19,5 +19,13 @@ The primary source of the data used here is amazon sales dataset , an open sourc
   * For Analysis
   * For creating a report
 
+#### Data Cleaning and Preparation
+At the initial phase of the cleaning and preparing the data, the following actions were performed:
+- Data Loading
+- Data Inspection
+- Data Formatting
+- Handling of missing variables
+- Removal of columns not needed for analysis
+- Data Cleaning
 
 
